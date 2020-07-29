@@ -3,9 +3,7 @@
 ## What to say?
 <p>Programmer and Web-Developer transitioning to the field with past experience as an educator and academic training in Philosophy and Math.</p>
 
-
-<div style="margin: 0 auto;">
-  <div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/shai-gilboa/" title="Check my Linkedin">
     check my Linkedin: 💼
     </a>
@@ -14,4 +12,3 @@
       🐦
     </a> -->
   </div>
-</div>
