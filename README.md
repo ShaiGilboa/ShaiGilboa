@@ -11,7 +11,7 @@ Programmer and Web-Developer transitioning to the field with past experience as 
     </a>
     <a class="mailto" href="mailto:shizel@gmail.com" stlye="display: block" title="send me an email!">📧</a>
     <a href="https://twitter.com/GilboaShai" title="I'm trying out twitter">
-      <img src="./assets/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" style="width: 15px;" >
+      <img src="./assets/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" style="width: 15px;" />
     </a>
   </div>
 </div>
