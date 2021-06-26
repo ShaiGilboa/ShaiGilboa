@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/shai-gilboa/" title="Check my Linkedin">
     check my Linkedin: 💼
     </a>
-    <a class="mailto" href="mailto:shizel@gmail.com" " title="send me an email!">email me: 📧</a>
+    <a class="mailto" href="mailto:contact@shaigilboa.com" " title="send me an email!">email me: 📧</a>
     <!-- <a href="https://twitter.com/GilboaShai" title="I'm trying out twitter">
       🐦
     </a> -->
